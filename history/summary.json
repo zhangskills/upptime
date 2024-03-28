@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jzadmin.ruanwanjia.com.ico",
     "slug": "ruanwanjia-admin",
     "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1164,
     "timeDay": 1164,
     "timeWeek": 1164,
     "timeMonth": 1164,
     "timeYear": 1164,
-    "dailyMinutesDown": {
-      "2024-03-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ruanwanjia-api",
@@ -60,17 +58,19 @@
     "url": "https://cpuapi.withword.com/cpu/1",
     "icon": "https://icons.duckduckgo.com/ip3/cpuapi.withword.com.ico",
     "slug": "cpuapi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 990,
     "timeDay": 990,
     "timeWeek": 990,
     "timeMonth": 990,
     "timeYear": 990,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   }
 ]
