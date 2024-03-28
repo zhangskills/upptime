@@ -58,19 +58,19 @@
     "url": "https://cpuapi.withword.com/cpu/1",
     "icon": "https://icons.duckduckgo.com/ip3/cpuapi.withword.com.ico",
     "slug": "cpuapi",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 990,
-    "timeDay": 990,
-    "timeWeek": 990,
-    "timeMonth": 990,
-    "timeYear": 990,
+    "status": "up",
+    "uptime": "96.19%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
+    "time": 1036,
+    "timeDay": 1036,
+    "timeWeek": 1036,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {
-      "2024-03-28": 0
+      "2024-03-28": 19
     }
   }
 ]
