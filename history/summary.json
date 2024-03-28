@@ -4,18 +4,20 @@
     "url": "https://jzadmin.ruanwanjia.com",
     "icon": "https://icons.duckduckgo.com/ip3/jzadmin.ruanwanjia.com.ico",
     "slug": "ruanwanjia-admin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1147,
     "timeDay": 1147,
     "timeWeek": 1147,
     "timeMonth": 1147,
     "timeYear": 1147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "ruanwanjia-api",
