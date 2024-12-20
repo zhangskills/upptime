@@ -1,7 +1,7 @@
 url: https://cpuapi.withword.com/cpu/1
 status: down
-code: 404
-responseTime: 734
-lastUpdated: 2024-12-19T23:10:16.498Z
+code: 502
+responseTime: 1072
+lastUpdated: 2024-12-20T23:09:53.888Z
 startTime: 2024-03-28T02:51:29.048Z
 generator: Upptime <https://github.com/upptime/upptime>
